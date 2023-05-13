@@ -1,4 +1,4 @@
-###Hey there 👋
+Hey there 👋
 
 My name is Aryan Katyayan and I am currently pursuing my degree in B.TECH in Computer Science Engineering with Specialization in Artificial Intelligence & Machine Learning from the Vellore Institute of Technology, Bhopal. I am a machine learning enthusiast and currently exploring and trying to develop my skills in the field of deep learning.
 
