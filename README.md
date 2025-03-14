@@ -6,4 +6,3 @@ My name is Aryan Katyayan and I am currently pursuing my degree in B.TECH in Com
 - 👯 I’m looking to collaborate on Machine learning projects
 - 💬 Ask me about python, c++ and Machine Learning
 - 📫 How to reach me: aryankatyayan1719@gmail.com
-- ⚡ Fun fact: I am a pro gamer and love several sports like Cricket, Football, F1, Mixed Martial Arts
